@@ -7,12 +7,11 @@ This repository contains dotfiles for
 * Polybar
 * Oh-my-zsh
 * fzf
+* feh
+* vim
+* termite
 
 ## Depencencies
-
-In order to get everything running, needed tools are
-
-`is-gaps, rofi, polybar, zsh, oh-my-zsh, fzf`
 
 ## Install
 
